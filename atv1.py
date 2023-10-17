@@ -1,0 +1,1 @@
+ng=(input("digite por gentileza alo mundo"))
